@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Mantalstudi0
-Mantalstudio/Mantalstudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center"> MICROJUS - OFFENSIVE SECURITY </h1> 
+<h1 align="center"> MantAL Studio IVE SECURITY </h1> 
   <p align="center">
   <img align="center" alt="dark-pick" height="130" style="border-radius:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkGFMlPtnAQXsoKW-j7wA4ukLeY8lxmM5ovQ&usqp=CAU">
   
